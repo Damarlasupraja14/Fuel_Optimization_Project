@@ -60,6 +60,23 @@ To identify key patterns and suggestions that help reduce fuel costs and improve
 - Found actionable insights that can reduce fuel expenses by **~15%**
 
 ---
+## SQL Integration
+   To enable robust data querying and filtering, I imported the cleaned datasets into a MySQL database and performed several analytical queries to derive meaningful insights.
+
+**Key Highlights:**
+ - Created relational tables for Drivers, Fuel Costs, and Freight Deliveries.
+
+ - Joined multiple tables using JOIN operations to analyze:
+
+ - Fuel efficiency per truck and driver
+
+ - Revenue by delivery city
+
+ - High-cost maintenance patterns
+
+  Used SQL to pre-aggregate data before visualizing in Power BI.
+  
+---
 
 ## 📊 Power BI Dashboard
 
